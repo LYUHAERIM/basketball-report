@@ -1,0 +1,283 @@
+{
+  "player_report": [
+    {
+      "track_id": 6,
+      "team_id": 0,
+      "team_name": "Boston Celtics",
+      "jersey": "0",
+      "player_name": "Tatum",
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 809.845062801451,
+      "avg_speed_px_s": 163.05605291304383,
+      "max_speed_px_s": 1500.6748481933053,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 4,
+      "team_id": 0,
+      "team_name": "Boston Celtics",
+      "jersey": "2",
+      "player_name": NaN,
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 866.7060674762552,
+      "avg_speed_px_s": 174.50457734421246,
+      "max_speed_px_s": 530.7541803886239,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 10,
+      "team_id": 0,
+      "team_name": "Boston Celtics",
+      "jersey": "25",
+      "player_name": NaN,
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 1979.9673968881593,
+      "avg_speed_px_s": 398.651153735871,
+      "max_speed_px_s": 4184.247244128865,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 2,
+      "team_id": 0,
+      "team_name": "Boston Celtics",
+      "jersey": NaN,
+      "player_name": NaN,
+      "n_frames_visible": 148,
+      "min_visible": 0.08222222222222222,
+      "dist_px": 1996.6697671304953,
+      "avg_speed_px_s": 404.7303582021274,
+      "max_speed_px_s": 3342.0053859920695,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 9,
+      "team_id": 0,
+      "team_name": "Boston Celtics",
+      "jersey": NaN,
+      "player_name": NaN,
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 1590.2492745403713,
+      "avg_speed_px_s": 320.1844176926922,
+      "max_speed_px_s": 3847.4926900515356,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 3,
+      "team_id": 1,
+      "team_name": "New York Knicks",
+      "jersey": "0",
+      "player_name": "Wright",
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 1038.7770141610279,
+      "avg_speed_px_s": 209.14973439483782,
+      "max_speed_px_s": 2041.3782109153608,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 5,
+      "team_id": 1,
+      "team_name": "New York Knicks",
+      "jersey": "11",
+      "player_name": "Brunson",
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 2026.7243169653425,
+      "avg_speed_px_s": 408.0652987178542,
+      "max_speed_px_s": 3640.0274724238,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 7,
+      "team_id": 1,
+      "team_name": "New York Knicks",
+      "jersey": "11",
+      "player_name": "Brunson",
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 2229.804243375132,
+      "avg_speed_px_s": 448.9538745050601,
+      "max_speed_px_s": 3661.505837766751,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 8,
+      "team_id": 1,
+      "team_name": "New York Knicks",
+      "jersey": "42",
+      "player_name": NaN,
+      "n_frames_visible": 149,
+      "min_visible": 0.08277777777777778,
+      "dist_px": 1815.744515635957,
+      "avg_speed_px_s": 365.5861440877766,
+      "max_speed_px_s": 5186.725845849191,
+      "FGA": 0,
+      "FGM": 0,
+      "FG_pct": NaN
+    },
+    {
+      "track_id": 1,
+      "team_id": 1,
+      "team_name": "New York Knicks",
+      "jersey": "9",
+      "player_name": NaN,
+      "n_frames_visible": 135,
+      "min_visible": 0.075,
+      "dist_px": 1125.2125542763224,
+      "avg_speed_px_s": 250.04723428362723,
+      "max_speed_px_s": 1162.3790259635625,
+      "FGA": 1,
+      "FGM": 0,
+      "FG_pct": 0.0
+    }
+  ],
+  "game_report": {
+    "video": {
+      "source_video_path": "/content/source/boston-celtics-new-york-knicks-game-1-q1-03.16-03.11.mp4",
+      "fps": 30.0,
+      "n_frames": 149,
+      "duration_s": 4.966666666666667
+    },
+    "teams": [
+      {
+        "team_id": 0,
+        "team_name": "Boston Celtics",
+        "FGA": 0,
+        "FGM": 0,
+        "FG_pct": NaN
+      },
+      {
+        "team_id": 1,
+        "team_name": "New York Knicks",
+        "FGA": 1,
+        "FGM": 0,
+        "FG_pct": 0.0
+      }
+    ],
+    "leaders": {
+      "top_movers": [
+        {
+          "track_id": 7,
+          "team_name": "New York Knicks",
+          "jersey": "11",
+          "player_name": "Brunson",
+          "dist_px": 2229.804243375132,
+          "min_visible": 0.08277777777777778
+        },
+        {
+          "track_id": 5,
+          "team_name": "New York Knicks",
+          "jersey": "11",
+          "player_name": "Brunson",
+          "dist_px": 2026.7243169653425,
+          "min_visible": 0.08277777777777778
+        },
+        {
+          "track_id": 2,
+          "team_name": "Boston Celtics",
+          "jersey": null,
+          "player_name": null,
+          "dist_px": 1996.6697671304953,
+          "min_visible": 0.08222222222222222
+        },
+        {
+          "track_id": 10,
+          "team_name": "Boston Celtics",
+          "jersey": "25",
+          "player_name": null,
+          "dist_px": 1979.9673968881593,
+          "min_visible": 0.08277777777777778
+        },
+        {
+          "track_id": 8,
+          "team_name": "New York Knicks",
+          "jersey": "42",
+          "player_name": null,
+          "dist_px": 1815.744515635957,
+          "min_visible": 0.08277777777777778
+        }
+      ],
+      "top_shooters_by_FGM": [
+        {
+          "track_id": 6,
+          "team_name": "Boston Celtics",
+          "jersey": "0",
+          "player_name": "Tatum",
+          "FGM": 0,
+          "FGA": 0,
+          "FG_pct": NaN
+        },
+        {
+          "track_id": 4,
+          "team_name": "Boston Celtics",
+          "jersey": "2",
+          "player_name": null,
+          "FGM": 0,
+          "FGA": 0,
+          "FG_pct": NaN
+        },
+        {
+          "track_id": 10,
+          "team_name": "Boston Celtics",
+          "jersey": "25",
+          "player_name": null,
+          "FGM": 0,
+          "FGA": 0,
+          "FG_pct": NaN
+        },
+        {
+          "track_id": 2,
+          "team_name": "Boston Celtics",
+          "jersey": null,
+          "player_name": null,
+          "FGM": 0,
+          "FGA": 0,
+          "FG_pct": NaN
+        },
+        {
+          "track_id": 9,
+          "team_name": "Boston Celtics",
+          "jersey": null,
+          "player_name": null,
+          "FGM": 0,
+          "FGA": 0,
+          "FG_pct": NaN
+        }
+      ]
+    },
+    "shots": {
+      "total_shots": 1,
+      "made": 0,
+      "miss": 1
+    }
+  },
+  "event_log": [
+    {
+      "shot_id": 1,
+      "start_frame": 62,
+      "end_frame": 122,
+      "made": false,
+      "shooter_track_id": 1
+    }
+  ]
+}
